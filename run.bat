@@ -1,0 +1,1 @@
+del news-demo-starter-files.exe && go build && echo completed &&news-demo-starter-files
